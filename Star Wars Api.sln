@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Star Wars Api", "Star Wars Api\Star Wars Api.csproj", "{A5699458-ABD8-4C61-871B-B389DD87270B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0668C98F-C208-4EE0-B128-ECCDFB600DA4}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star Wars Api Tests", "Star Wars Api Tests\Star Wars Api Tests.csproj", "{A223F337-1E51-484D-9588-78B7F69CF8BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5699458-ABD8-4C61-871B-B389DD87270B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5699458-ABD8-4C61-871B-B389DD87270B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5699458-ABD8-4C61-871B-B389DD87270B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5699458-ABD8-4C61-871B-B389DD87270B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A223F337-1E51-484D-9588-78B7F69CF8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A223F337-1E51-484D-9588-78B7F69CF8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A223F337-1E51-484D-9588-78B7F69CF8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A223F337-1E51-484D-9588-78B7F69CF8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FBC1F66-1274-4C51-896C-F2564E182AD1}
+	EndGlobalSection
+EndGlobal
